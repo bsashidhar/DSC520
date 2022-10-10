@@ -1,11 +1,11 @@
 ---
-title: "ASSIGNMENT 4"
+title: "ASSIGNMENT 4 ( Week 6 )"
 author: "Sashidhar Bezawada"
-date: '2022-09-21'
+date: '2022-10-08'
 output:
-  pdf_document: default
-  html_document: default
   word_document: default
+  html_document: default
+  pdf_document: default
 bibliography: bibliography.bib
 ---
 
@@ -20,20 +20,17 @@ library(pander)
 
 ## Favorite Foods
 1. Pizza
-2. Breakfast skillets
-3. French Fries
+2. Biryani
+3. Burger
 
 ## Images
 ![All Cases (Log Plot)](C:/Users/sashi_000/Desktop/Sashi Bellevue/GitHub/dsc520/completed/assignment04/plots/10-all-cases-log.png)
 
 
 ## Add a Quote
-> "Happiness can be found even in the darkest of times,
-   if one only remembers to turn on the light."
+> "We should do our work without worrying about its result"
 >
-> --- Dumbledore
-
-
+> --- The Bhagavad Gita
 
 
 ## Add an Equation
@@ -57,8 +54,6 @@ $$E = mc^2$$
 # Inline Code
 
 ```{r include = FALSE}
-#setwd("C:/Users/holmk/OneDrive/Desktop/DSC520 - Statistics/personalRepo/dsc520/")
-
 ## Load the `data/r4ds/heights.csv` to
 heights_df <- read.csv("C:/Users/sashi_000/Desktop/Sashi Bellevue/GitHub/dsc520/data/r4ds/heights.csv")
 

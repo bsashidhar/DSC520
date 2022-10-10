@@ -1,6 +1,6 @@
-# Assignment: ASSIGNMENT 4
-# Name: Lastname, Firstname
-# Date: 2010-02-14
+# Assignment: ASSIGNMENT 4 ( Week 6 )
+# Name: Bezawada, Sashidhar
+# Date: 2022-10-08
 
 ## Load the ggplot2 package
 library(ggplot2)
